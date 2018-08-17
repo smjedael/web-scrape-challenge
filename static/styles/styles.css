@@ -1,0 +1,7 @@
+table {
+    border: 1px, solid, lightgrey;
+}
+
+.dataframe th, td {
+    padding:5px;
+}
